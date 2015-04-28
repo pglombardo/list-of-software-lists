@@ -9,4 +9,6 @@ One List to rule them all, One List to find them, One List to bring them all and
 
 # Awesome Lists
 
-See this [list of awesome](https://github.com/sindresorhus/awesome).
+* [Awesome-rubies](https://github.com/planetruby/awesome-rubies)
+
+See also this [list of awesome](https://github.com/sindresorhus/awesome).
